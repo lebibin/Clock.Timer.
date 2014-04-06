@@ -1,4 +1,4 @@
-# Find That Snowman
+# Clock. Timer.
 Laboratory Activity for ITWD223 - Advanced Web Design
 
 ![Clock.Timer.](http://i.imgur.com/LHkC62y.png)
